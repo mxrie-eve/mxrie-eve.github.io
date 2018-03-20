@@ -1,0 +1,16 @@
+#desc{
+  position: absolute;
+  right: 40px;
+  top: 20px;
+  z-index: 1;
+}
+#links {
+  z-index: 1;
+  top: 50%;
+  left: 10%;
+  position: absolute;
+  color: white;
+}
+/*.link {
+  margin-left: 10px;
+}*/
