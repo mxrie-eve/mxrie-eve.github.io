@@ -37,7 +37,7 @@ camera.lookAt(new THREE.Vector3(0, 10, 0));
 
 // renderer
 const renderer = new THREE.WebGLRenderer({canvas: document.getElementById('acanvas'), antialias: true});
-renderer.setClearColor(0, 1.0);
+renderer.setClearColor(0xffffff, 0.0);
 renderer.setSize(window.innerWidth, window.innerHeight);
 
 // events
